@@ -1,0 +1,1143 @@
+SUPREME COURT :{ SANCTIONED STRENGTH: 34 , WORKING STRENGTH: 34 , VACANCIES:0}\n\n
+HIGH COURT :{ 1 Allahabad ,SANCTIONED STRENGTH: 160 , WORKING STRENGTH: 84, VACANCIES:  76}\n\n
+HIGH COURT :{ 2 Andhra Pradesh ,SANCTIONED STRENGTH: 37 , WORKING STRENGTH: 26 , VACANCIES: 11}\n\n
+HIGH COURT :{ 3 Bombay ,SANCTIONED STRENGTH: 94 , WORKING STRENGTH: 66 , VACANCIES: 28}\n\n
+HIGH COURT :{ 4 Calcutta ,SANCTIONED STRENGTH:  72  , WORKING STRENGTH:44 , VACANCIES: 28}\n\n
+HIGH COURT :{ 5 Chhattisgarh ,SANCTIONED STRENGTH: 22  , WORKING STRENGTH:17 , VACANCIES:  5}\n\n
+HIGH COURT :{ 6 Delhi  ,SANCTIONED STRENGTH:60 , WORKING STRENGTH:39 , VACANCIES: 21}\n\n
+HIGH COURT :{ 7 Gauhati ,SANCTIONED STRENGTH: 30 , WORKING STRENGTH: 24 , VACANCIES: 6}\n\n
+HIGH COURT :{ 8 Gujarat ,SANCTIONED STRENGTH: 52 , WORKING STRENGTH: 29 , VACANCIES: 23}\n\n
+HIGH COURT :{ 9 Himachal Pradesh ,SANCTIONED STRENGTH: 17 , WORKING STRENGTH: 12 , VACANCIES: 5}\n\n
+HIGH COURT :{ 10 J & K and Ladakh  ,SANCTIONED STRENGTH:17 , WORKING STRENGTH: 15 , VACANCIES: 2}\n\n
+HIGH COURT :{ 11 Jharkhand ,SANCTIONED STRENGTH: 25 , WORKING STRENGTH: 18, VACANCIES:  7}\n\n
+HIGH COURT :{ 12 Karnataka ,SANCTIONED STRENGTH: 62 , WORKING STRENGTH: 50 , VACANCIES:  12}\n\n
+HIGH COURT :{ 13 Kerala ,SANCTIONED STRENGTH: 47 , WORKING STRENGTH: 39 , VACANCIES: 8}\n\n
+HIGH COURT :{ 14 Madhya Pradesh ,SANCTIONED STRENGTH: 53 , WORKING STRENGTH: 34 , VACANCIES: 19}\n\n
+HIGH COURT :{ 15 Madras ,SANCTIONED STRENGTH: 75 , WORKING STRENGTH: 62 , VACANCIES: 13}\n\n
+HIGH COURT :{ 16 Manipur ,SANCTIONED STRENGTH: 5 , WORKING STRENGTH: 4 , VACANCIES: 1}\n\n
+HIGH COURT :{ 17 Meghalaya ,SANCTIONED STRENGTH: 4 , WORKING STRENGTH: 3 , VACANCIES: 1}\n\n
+HIGH COURT :{ 18 Orissa ,SANCTIONED STRENGTH: 33 , WORKING STRENGTH: 20, VACANCIES: 13}\n\n
+HIGH COURT :{ 19 Patna ,SANCTIONED STRENGTH: 53 , WORKING STRENGTH: 33, VACANCIES:  20}\n\n
+HIGH COURT :{ 20 Punjab & Haryana ,SANCTIONED STRENGTH: 85 , WORKING STRENGTH: 55 , VACANCIES: 30}\n\n
+HIGH COURT :{ 21 Rajasthan ,SANCTIONED STRENGTH: 50 , WORKING STRENGTH: 33 , VACANCIES: 17}\n\n
+HIGH COURT :{ 22 Sikkim ,SANCTIONED STRENGTH: 3 , WORKING STRENGTH: 3 , VACANCIES: 0}\n\n
+HIGH COURT :{ 23 Telangana ,SANCTIONED STRENGTH: 42 , WORKING STRENGTH: 27 , VACANCIES:  15}\n\n
+HIGH COURT :{ 24 Tripura ,SANCTIONED STRENGTH: 5 , WORKING STRENGTH: 5 , VACANCIES: 0}\n\n
+HIGH COURT :{ 25 Uttarakhand ,SANCTIONED STRENGTH: 11 , WORKING STRENGTH: 7 , VACANCIES: 4}\n\n
+
+SUPREME COURT JUDGES:{1. NAME OF THE JUDGE:DR. DHANANJAYA Y. CHANDRACHUD,DATE OF APPOINTMENT: 13/05/2016, DATE OF RETIREMENT: 10/11/2024,PARENT HIGH COURT: CJI w.e.f. 09.11.2022
+(BOMBAY)}\n\n
+{2. NAME OF THE JUDGE:SANJIV KHANNA ,DATE OF APPOINTMENT:18/01/2019, DATE OF RETIREMENT: 13/05/2025 ,PARENT HIGH COURT:DELHI}\n\n
+{3. NAME OF THE JUDGE:BHUSHAN RAMKRISHNA GAVAI ,DATE OF APPOINTMENT:24/05/2019, DATE OF RETIREMENT: 23/11/2025 ,PARENT HIGH COURT:BOMBAY}\n\n
+{4. NAME OF THE JUDGE:SURYA KANT ,DATE OF APPOINTMENT:24/05/2019 , DATE OF RETIREMENT:09/02/2027 ,PARENT HIGH COURT:PUNJAB & HARYANA}\n\n
+{5. NAME OF THE JUDGE:HRISHIKESH ROY ,DATE OF APPOINTMENT:23/09/2019 , DATE OF RETIREMENT:31/01/2025 ,PARENT HIGH COURT:GAUHATI}\n\n
+{6. NAME OF THE JUDGE:ABHAY SHREENIWAS OKA,DATE OF APPOINTMENT: 31/08/2021, DATE OF RETIREMENT: 24/05/2025 ,PARENT HIGH COURT:BOMBAY}\n\n
+{7. NAME OF THE JUDGE:VIKRAM NATH,DATE OF APPOINTMENT: 31/08/2021 , DATE OF RETIREMENT:23/09/2027 ,PARENT HIGH COURT:ALLAHABAD}\n\n
+{8. NAME OF THE JUDGE:JITENDRA KUMAR MAHESHWARI,DATE OF APPOINTMENT: 31/08/2021, DATE OF RETIREMENT: 28/06/2026 ,PARENT HIGH COURT:MADHYA PRADESH}\n\n
+{9. NAME OF THE JUDGE:KUMARI HIMA KOHLI ,DATE OF APPOINTMENT:31/08/2021, DATE OF RETIREMENT: 01/09/2024 ,PARENT HIGH COURT:DELHI}\n\n
+{10. NAME OF THE JUDGE:SMT. B.V. NAGARATHNA ,DATE OF APPOINTMENT:31/08/2021, DATE OF RETIREMENT: 29/10/2027 ,PARENT HIGH COURT:KARNATAKA}\n\n
+{11. NAME OF THE JUDGE:C.T. RAVI KUMAR ,DATE OF APPOINTMENT:31/08/2021, DATE OF RETIREMENT: 05/01/2025,PARENT HIGH COURT: KERALA}\n\n
+{12. NAME OF THE JUDGE:M.M. SUNDRESH ,DATE OF APPOINTMENT:31/08/2021 , DATE OF RETIREMENT:20/07/2027,PARENT HIGH COURT: MADRAS}\n\n
+{13. NAME OF THE JUDGE:MS. BELA M. TRIVEDI ,DATE OF APPOINTMENT:31/08/2021, DATE OF RETIREMENT: 09/06/2025 ,PARENT HIGH COURT:GUJARAT}\n\n
+{14. NAME OF THE JUDGE:P.S. NARASIMHA ,DATE OF APPOINTMENT:31/08/2021, DATE OF RETIREMENT: 02/05/2028,PARENT HIGH COURT: BAR}\n\n
+{15. NAME OF THE JUDGE:SUDHANSHU DHULIA,DATE OF APPOINTMENT: 09/05/2022, DATE OF RETIREMENT: 09/08/2025 ,PARENT HIGH COURT:UTTARAKHAND}\n\n
+{16. NAME OF THE JUDGE:JAMSHED BURJOR PARDIWALA,DATE OF APPOINTMENT: 09/05/2022 , DATE OF RETIREMENT:11/08/2030 ,PARENT HIGH COURT:GUJARAT}\n\n
+{17. NAME OF THE JUDGE:DIPANKAR DATTA ,DATE OF APPOINTMENT:12/12/2022 , DATE OF RETIREMENT:08/02/2030 ,PARENT HIGH COURT:CALCUTTA}\n\n
+{18. NAME OF THE JUDGE:PANKAJ MITHAL ,DATE OF APPOINTMENT:06/02/2023, DATE OF RETIREMENT: 16/06/2026 ,PARENT HIGH COURT:ALLAHABAD}\n\n
+{19. NAME OF THE JUDGE:SANJAY KAROL ,DATE OF APPOINTMENT:06/02/2023, DATE OF RETIREMENT: 22/08/2026 ,PARENT HIGH COURT:HIMACHAL PRADESH}\n\n
+{20. NAME OF THE JUDGE:P.V. SANJAY KUMAR ,DATE OF APPOINTMENT:06/02/2023, DATE OF RETIREMENT: 13/08/2028 ,PARENT HIGH COURT:TELANGANA}\n\n
+{21. NAME OF THE JUDGE:AHSANUDDIN AMANULLAH ,DATE OF APPOINTMENT:06/02/2023, DATE OF RETIREMENT: 10/05/2028 ,PARENT HIGH COURT:PATNA}\n\n
+{22. NAME OF THE JUDGE:MANOJ MISRA ,DATE OF APPOINTMENT:06/02/2023, DATE OF RETIREMENT: 01/06/2030 ,PARENT HIGH COURT:ALLAHABAD}\n\n
+{23. NAME OF THE JUDGE:RAJESH BINDAL ,DATE OF APPOINTMENT:13/02/2023 , DATE OF RETIREMENT:15/04/2026 ,PARENT HIGH COURT:PUNJAB & HARYANA}\n\n
+{24. NAME OF THE JUDGE:ARAVIND KUMAR ,DATE OF APPOINTMENT:13/02/2023 , DATE OF RETIREMENT:13/07/2027 ,PARENT HIGH COURT:KARNATAKA}\n\n
+{25. NAME OF THE JUDGE:PRASHANT KUMAR MISHRA ,DATE OF APPOINTMENT:19/05/2023, DATE OF RETIREMENT: 28/08/2029 ,PARENT HIGH COURT:CHHATTISGARH}\n\n
+{26. NAME OF THE JUDGE: K.V. VISWANATHAN ,DATE OF APPOINTMENT:19/05/2023 , DATE OF RETIREMENT:25/05/2031 ,PARENT HIGH COURT:BAR}\n\n
+{27. NAME OF THE JUDGE:UJJAL BHUYAN ,DATE OF APPOINTMENT:14/07/2023 , DATE OF RETIREMENT:01/08/2029 ,PARENT HIGH COURT:GAUHATI}\n\n
+{28. NAME OF THE JUDGE:SARASA VENKATANARYANA BHATTI ,DATE OF APPOINTMENT:14/07/2023, DATE OF RETIREMENT: 05/05/2027,PARENT HIGH COURT: ANDHRA PRADESH}\n\n
+{29. NAME OF THE JUDGE:SATISH CHANDRA SHARMA ,DATE OF APPOINTMENT:09/11/2023, DATE OF RETIREMENT: 29/11/2026,PARENT HIGH COURT: MADHYA PRADESH}\n\n
+{30. NAME OF THE JUDGE:AUGUSTINE GEORGE MASIH,DATE OF APPOINTMENT: 09/11/2023, DATE OF RETIREMENT: 11/03/2028,PARENT HIGH COURT: PUNJAB & HARYANA}\n\n
+{31. NAME OF THE JUDGE:SANDEEP MEHTA ,DATE OF APPOINTMENT:09/11/2023 , DATE OF RETIREMENT:10/01/2028 ,PARENT HIGH COURT:RAJASTHAN}\n\n
+{32. NAME OF THE JUDGE:PRASANNA BHALACHANDRA VARALE,DATE OF APPOINTMENT: 25/01/2024, DATE OF RETIREMENT: 22/06/2027,PARENT HIGH COURT: BOMBAY}\n\n
+{33. NAME OF THE JUDGE:NONGMEIKAPAM KOTISWAR SINGH,DATE OF APPOINTMENT: 18/07/2024 , DATE OF RETIREMENT:28/02/2028,PARENT HIGH COURT: MANIPUR}\n\n
+{34. NAME OF THE JUDGE:R. MAHADEVAN ,DATE OF APPOINTMENT:18/07/2024 , DATE OF RETIREMENT:06/06/2028,PARENT HIGH COURT: MADRAS}\n\n
+
+
+ CHIEF JUSTICES OF THE HIGH COURT:
+{1. NAME OF HIGH COURT:ALLAHABAD , NAME OF THE CHIEF JUSTICE:ARUN BHANSALI, DATE OF INITIAL APPOINTMENT:08/01/2013,DATE OF APPOINTMENT AS CHIEF JUSTICE: 05/02/2024,DATE OF RETIREMENT:14/10/2029,PARENT HIGH COURT:RAJASTHAN,DATE OF JOINING IN THE PRESENT HIGH COURT:05/02/2024}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 2. NAME OF HIGH COURT:ANDHRA PRADESH , NAME OF THE CHIEF JUSTICE:DHIRAJ SINGH THAKUR , DATE OF INITIAL APPOINTMENT:08/03/2013 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:28/07/2023 ,DATE OF RETIREMENT:24/04/2026 ,PARENT HIGH COURT:J&K AND LAKAKH ,DATE OF JOINING IN THE PRESENT HIGH COURT:28/07/2023}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 3. NAME OF HIGH COURT:BOMBAY , NAME OF THE CHIEF JUSTICE:DEVENDRA KUMAR UPADHYAYA , DATE OF INITIAL APPOINTMENT:21/11/2011,DATE OF APPOINTMENT AS CHIEF JUSTICE: 29/07/2023,DATE OF RETIREMENT: 15/06/2027 ,PARENT HIGH COURT:ALLAHABAD ,DATE OF JOINING IN THE PRESENT HIGH COURT:29/07/2023}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 4. NAME OF HIGH COURT:CALCUTTA, NAME OF THE CHIEF JUSTICE: T.S. SIVAGNANAM , DATE OF INITIAL APPOINTMENT:31/03/2009 DATE OF APPOINTMENT AS CHIEF JUSTICE:11/05/2023,DATE OF APPOINTMENT AS CHIEF JUSTICE: ,DATE OF RETIREMENT:15/09/2025 ,PARENT HIGH COURT:MADRAS ,DATE OF JOINING IN THE PRESENT HIGH COURT:11/05/2023}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 5. NAME OF HIGH COURT:CHHATTISGARH, NAME OF THE CHIEF JUSTICE: RAMESH SINHA , DATE OF INITIAL APPOINTMENT:21/11/2011 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:29/03/2023 ,DATE OF RETIREMENT:04/09/2026 ,PARENT HIGH COURT:ALLAHABAD ,DATE OF JOINING IN THE PRESENT HIGH COURT:29/03/2023}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 6. NAME OF HIGH COURT:DELHI*, NAME OF THE CHIEF JUSTICE: MANMOHAN , DATE OF INITIAL APPOINTMENT:13/03/2008 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:09/11/2023 ,DATE OF RETIREMENT:16/12/2024 ,PARENT HIGH COURT:DELHI ,DATE OF JOINING IN THE PRESENT HIGH COURT:ACJ w.e.f. 09/11/2023}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 7. NAME OF HIGH COURT:GAUHATI, NAME OF THE CHIEF JUSTICE: VIJAY BISHNOI , DATE OF INITIAL APPOINTMENT:08/01/2013 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:05/02/2024,DATE OF RETIREMENT: 25/03/2026 ,PARENT HIGH COURT:RAJASTHAN ,DATE OF JOINING IN THE PRESENT HIGH COURT:05/02/2024}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 8. NAME OF HIGH COURT:GUJARAT , NAME OF THE CHIEF JUSTICE:SMT. SUNITA AGARWAL, DATE OF INITIAL APPOINTMENT: 21/11/2011 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:23/07/2023,DATE OF RETIREMENT: 29/04/2028 ,PARENT HIGH COURT:ALLAHABAD ,DATE OF JOINING IN THE PRESENT HIGH COURT:23/07/2023}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 9. NAME OF HIGH COURT:HIMACHAL PRADESH , NAME OF THE CHIEF JUSTICE:M.S.SRI RAMACHANDRA RAO , DATE OF INITIAL APPOINTMENT:29/06/2012,DATE OF APPOINTMENT AS CHIEF JUSTICE: 30/05/2023 ,DATE OF RETIREMENT:06/08/2028 ,PARENT HIGH COURT:TELANGANA ,DATE OF JOINING IN THE PRESENT HIGH COURT:30/05/2023}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 10. NAME OF HIGH COURT:J&K AND LADAKH* , NAME OF THE CHIEF JUSTICE:TASHI RABSTAN , DATE OF INITIAL APPOINTMENT:08/03/2013 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:18/07/2024,DATE OF RETIREMENT: 09/04/2025 ,PARENT HIGH COURT:MANIPUR ,DATE OF JOINING IN THE PRESENT HIGH COURT:ACJ w.e.f. 18/07/2024}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 11. NAME OF HIGH COURT:JHARKHAND* , NAME OF THE CHIEF JUSTICE:SUJIT NARAYAN PRASAD , DATE OF INITIAL APPOINTMENT:26/09/2014 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:20/07/2024 ,DATE OF RETIREMENT:19/06/2029 ,PARENT HIGH COURT:JHARKHAND,DATE OF JOINING IN THE PRESENT HIGH COURT: ACJ w.e.f. 20/07/2024}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 12. NAME OF HIGH COURT:KARNATAKA , NAME OF THE CHIEF JUSTICE:NILAY VIPINCHANDRA ANJARIA , DATE OF INITIAL APPOINTMENT:21/11/2011,DATE OF APPOINTMENT AS CHIEF JUSTICE: 25/02/2024,DATE OF RETIREMENT: 22/03/2027 ,PARENT HIGH COURT:GUJARAT,DATE OF JOINING IN THE PRESENT HIGH COURT: 25/02/2024}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 13. NAME OF HIGH COURT:KERALA* , NAME OF THE CHIEF JUSTICE:MUHAMED MUSTAQUE 
+AYUMANTAKATH
+, DATE OF INITIAL APPOINTMENT:23/01/2014 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:22/07/2023 ,DATE OF RETIREMENT:31/05/2029 ,PARENT HIGH COURT:KERALA,DATE OF JOINING IN THE PRESENT HIGH COURT: ACJ w.e.f. 05/07/2024}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 14. NAME OF HIGH COURT:MADHYA PRADESH* , NAME OF THE CHIEF JUSTICE:SANJEEV SACHDEVA , DATE OF INITIAL APPOINTMENT:17/04/2013,DATE OF APPOINTMENT AS CHIEF JUSTICE: 09/07/2024 ,DATE OF RETIREMENT:25/12/2026 ,PARENT HIGH COURT:DELHI ,DATE OF JOINING IN THE PRESENT HIGH COURT:ACJ w.e.f. 09/07/2024}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 15. NAME OF HIGH COURT:MADRAS* , NAME OF THE CHIEF JUSTICE:D. KRISHNAKUMAR , DATE OF INITIAL APPOINTMENT:07/04/2016 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:18/07/02024,DATE OF RETIREMENT: 21/05/2025,PARENT HIGH COURT: MADRAS ,DATE OF JOINING IN THE PRESENT HIGH COURT:ACJ w.e.f. 18/07/2024}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 16. NAME OF HIGH COURT:MANIPUR , NAME OF THE CHIEF JUSTICE:SIDDHARTH MRIDUL , DATE OF INITIAL APPOINTMENT:13/03/2008 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:20/10/2023,DATE OF RETIREMENT: 21/11/2024 ,PARENT HIGH COURT:DELHI ,DATE OF JOINING IN THE PRESENT HIGH COURT:20/10/2023}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 17. NAME OF HIGH COURT:MEGHALAYA , NAME OF THE CHIEF JUSTICE:S. VAIDYANATHAN , DATE OF INITIAL APPOINTMENT:25/10/2013 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:11/02/2024 ,DATE OF RETIREMENT:16/08/2024 ,PARENT HIGH COURT:MADRAS ,DATE OF JOINING IN THE PRESENT HIGH COURT:11/02/2024}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 18. NAME OF HIGH COURT:ORISSA , NAME OF THE CHIEF JUSTICE:CHAKRADHARI SHARAN SINGH , DATE OF INITIAL APPOINTMENT:05/04/2012,DATE OF APPOINTMENT AS CHIEF JUSTICE: 07/02/2024,DATE OF RETIREMENT: 19/01/2025 ,PARENT HIGH COURT:PATNA ,DATE OF JOINING IN THE PRESENT HIGH COURT:07/02/2024}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 19. NAME OF HIGH COURT:PATNA , NAME OF THE CHIEF JUSTICE:KRISHNAN VINOD CHANDRAN , DATE OF INITIAL APPOINTMENT:08/11/2011,DATE OF APPOINTMENT AS CHIEF JUSTICE: 29/03/2023,DATE OF RETIREMENT: 24/04/2025,PARENT HIGH COURT: KERALA ,DATE OF JOINING IN THE PRESENT HIGH COURT:29/03/2023}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 20. NAME OF HIGH COURT:PUNJAB & HARYANA , NAME OF THE CHIEF JUSTICE:SHEEL NAGU , DATE OF INITIAL APPOINTMENT:27/05/2011 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:09/07/2024 ,DATE OF RETIREMENT:31/12/2026 ,PARENT HIGH COURT:MADHYA PRADESH ,DATE OF JOINING IN THE PRESENT HIGH COURT:09/07/2024}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 21. NAME OF HIGH COURT:RAJASTHAN , NAME OF THE CHIEF JUSTICE:MANINDRA MOHAN SHRIVASTAVA , DATE OF INITIAL APPOINTMENT:10/12/2009 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:06/02/2024,DATE OF RETIREMENT: 05/03/2026,PARENT HIGH COURT: CHHATTISGARH ,DATE OF JOINING IN THE PRESENT HIGH COURT:06/02/2024}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 22. NAME OF HIGH COURT:SIKKIM , NAME OF THE CHIEF JUSTICE:BISWANATH SOMADDER , DATE OF INITIAL APPOINTMENT:22/06/2006 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:27/04/2020,DATE OF RETIREMENT: 14/12/2025 ,PARENT HIGH COURT:CALCUTTA ,DATE OF JOINING IN THE PRESENT HIGH COURT:12/10/2021}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 23. NAME OF HIGH COURT:TELANGANA , NAME OF THE CHIEF JUSTICE:ALOK ARADHE , DATE OF INITIAL APPOINTMENT:29/12/2009 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:23/07/2023 ,DATE OF RETIREMENT:12/04/2026,PARENT HIGH COURT: MADHYA PRADESH ,DATE OF JOINING IN THE PRESENT HIGH COURT:23/07/2023}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 24. NAME OF HIGH COURT:TRIPURA, NAME OF THE CHIEF JUSTICE: APARESH KUMAR SINGH , DATE OF INITIAL APPOINTMENT:24/01/2012 ,DATE OF APPOINTMENT AS CHIEF JUSTICE:17/04/2023 ,DATE OF RETIREMENT:06/07/2027 ,PARENT HIGH COURT:JHARKHAND ,DATE OF JOINING IN THE PRESENT HIGH COURT:17/04/2023}\n\n
+ CHIEF JUSTICES OF THE HIGH COURT:{ 25. NAME OF HIGH COURT:UTTARAKHAND , NAME OF THE CHIEF JUSTICE:KUMARI RITU BAHRI [H] , DATE OF INITIAL APPOINTMENT:16/08/2010,DATE OF APPOINTMENT AS CHIEF JUSTICE: 04/02/2024 ,DATE OF RETIREMENT:10/10/2024 ,PARENT HIGH COURT:PUNJAB & 
+HARYANA,DATE OF JOINING IN THE PRESENT HIGH COURT:
+04/02/2024}\n\n
+
+DIVSIONS AND VISION OF THE DEPARTMENT OF JUSTICE :{1
+MINISTRY OF LAW AND JUSTICE
+DEPARTMENT OF JUSTICE
+----
+Ministry of Law and Justice is the oldest limb of the Government of 
+India. The Ministry functions through three integral departments -
+Department of Legal Affairs, Legislative Department and the 
+Department of Justice. 
+VISION OF THE DEPARTMENT OF JUSTICE
+Facilitating administration of Justice that ensures easy access and 
+timely delivery of Justice to all
+FUNCTIONS OF THE DEPARTMENT OF JUSTICE
+Department of Justice performs the Administrative functions in 
+respect of setting up of higher courts, appointment of Judges in 
+higher Judiciary, maintenance and revision of the conditions and 
+rules of service of the Judges and issues relating to legal reforms. 
+The Department of Justice is also responsible jointly with the 
+judiciary for reduction of pendency of cases in courts. It provides 
+funding assistance to State Governments for modernization of 
+infrastructure and for projects such as computerization of 
+subordinate courts. Detailed functions of Department of Justice are 
+at Annexe.
+SCHEMES UNDER THE DEPARTMENT OF JUSTICE: 
+2
+Apart from above functions, the Department of Justice administers 
+various schemes to improve justice delivery.
+1. Centrally sponsored scheme for development of 
+infrastructure for the judiciary
+A Centrally Sponsored Scheme for the development of infrastructure 
+facilities for the judiciary is being implemented by the Department of 
+Justice. The scheme provides funding for construction of courtbuildings and residential accommodation for judicial officers/judges 
+covering both the High Courts and districts/subordinate Courts. One 
+of the main conditions of the scheme is that the State Government 
+must provide 25%of the amount against 75% released by the 
+Centre.
+2. Gram Nayayalayas (People’s Court)
+The Gram Nyayalayas Act 2008 has been enacted to provide for the 
+establishment of Gram Nyayalayas at the grass-root level for the 
+purpose of providing access to justice to the citizens at their door 
+steps and to ensure that opportunities for securing justice are not 
+denied to any citizen by reason of social, economic or other 
+disabilities.
+The Central Government has committed to fund the initial cost in 
+terms of the non- recurring expenses for setting up these courts. 
+3. e-Courts
+The Government is implementing an e-Courts Mission Mode Project 
+for computerization of District & Subordinate Courts in the country 
+and for up gradation of ICT infrastructure of the Supreme Court and 
+the High Courts. By virtue of this, case filing, allocation, registration, 
+case workflow, orders and judgements will all be ICT enabled in the 
+3
+long run. The project was built a national judicial data grid which 
+enables lawyers and litigants to access case information and the 
+judiciary to improve case and court management.
+4. National Mission for Justice Delivery and Legal Reform
+The National Mission for Justice Delivery and Legal Reforms was set 
+up in August, 2011 to achieve the twin goals of (i) increasing access 
+by reducing delays and arrears; and (ii) enhancing accountability 
+through structural changes and by setting performance standards 
+and capacities. 
+5. Legal Aid to Poor
+Assistance is provided to poor people throughout the country for 
+enabling them to access free legal services. The activities and free 
+legal services are provided through National Legal Services 
+Authority (NALSA) established vide National Legal Services 
+Authority Act, 1987. 
+6. Access to Justice for the marginalized
+The Department of Justice is implementing two projects on ‘Access 
+to Justice for Marginalised People’ one of them with UNDP support. 
+The focus of the projects has been on empowering the poor and 
+marginalized, make them aware of their rights to demand legal 
+services, while at the same time supporting national and local justice 
+delivery institutions to bring justice to the poor. 
+7. Fast Track Courts
+The Eleventh Finance Commission had recommended a scheme for 
+creation of Fast Track Courts (FTCs) in the country for disposal of 
+long pending Sessions and other cases. Fast Track Courts are set 
+4
+up by the State Governments in consultation with the respective 
+High Court. Central Government provided financial assistance to 
+states for Fast Track Courts for eleven years from 2000-2001 to 
+2010-2011. In its judgment in Brij Mohan Lal vs Union of India & 
+Others on 19.04.2012, the Supreme Court has directed the States 
+that they shall not take a decision to continue the Fast Track Courts 
+scheme on an adhoc and temporary basis. They (States) will need to 
+decide either to bring the Fast Track Courts scheme to an end or to 
+continue the same as a permanent feature in the State. A number of 
+States are now continuing Fast Track Courts from their own 
+resources. 
+In the Conference of Chief Ministers and Chief Justices held in New 
+Delhi on 7th April, 2013, it has been resolved that the State 
+Governments shall, in consultation with the Chief Justices of the 
+respective High Courts, take necessary steps to establish suitable 
+number of FTCs relating to offences against women, children, 
+differently abled persons, senior citizens and marginalized sections 
+of the society, and provide adequate funds for the purpose of 
+creating and continuing them. Government has requested the State 
+Governments and the Chief Justices of the High Courts to implement 
+this decision. 
+The 14th Finance Commission has endorsed the proposal to 
+strengthen the judicial system in States which includes, inter-alia, 
+establishing 1800 FTCs for a period of five years for cases of 
+heinous crimes; cases involving senior citizens, women, children, 
+disabled and litigants affected with HIV AIDS and other terminal 
+ailments; and civil disputes involving land acquisition and 
+5
+property/rent disputes pending for more than five years. The 14th
+Finance Commission has urged State Governments to use 
+additional fiscal space provided by the Commission in the tax 
+devolution to meet such requirements.
+JUDICIAL STRUCTURE 
+India has a three tier judicial structure. At the lowest level are the 
+District and Subordinate Courts, in over 600 administrative districts. 
+At the next level are the High Courts in the States. By and large, 
+each State has a High Court. But some states have a common High 
+Court. (There are a total of 24 High Courts in the country). At the 
+apex level is the Supreme Court of India situated at New Delhi.
+1. Supreme Court of India
+The Supreme Court of India comprises the Chief Justice and 30 
+other Judges appointed by the President of India. The Judges of the 
+Supreme Court are appointed by the President under Article 124 (2) 
+of the Constitution while the Judges of the High Courts are 
+appointed under Article 217 (1) of the Constitution. The President is 
+required to hold consultation with such of the Judges of the Supreme 
+Court and of the High Courts in the State as he / she may deem 
+necessary for the purpose. However, consultation with the Chief 
+Justice of India is mandatory and constitutionally a must, for 
+appointment of Judges other than the Chief Justice in the Supreme 
+Court. Supreme Court Judges retire upon attaining the age of 65 
+years. In order to be appointed as a Judge of the Supreme Court, a 
+person must be a citizen of India and must have been, for at least 
+6
+five years, a Judge of a High Court or of two or more such Courts in 
+succession, or an Advocate of a High Court or of two or more such 
+Courts in succession for at least 10 years or he must be, in the 
+opinion of the President, a distinguished jurist. Provisions exist for 
+the appointment of a Judge of a High Court as an Ad-hoc Judge of 
+the Supreme Court and for retired Judges of the Supreme Court or 
+High Courts to sit and act as Judges of that Court.
+2. High Courts
+The High Court is the apex court of the State’s judicial 
+administration. The Judges of the High Courts are appointed by the 
+President under Article 217 (1) of the Constitution. There are 24 
+High Courts in the country, three having jurisdiction over more than 
+one State. Among the Union Territories Delhi alone has a High Court 
+of its own. Other six Union Territories come under the jurisdiction of 
+different State High Courts. Each High Court comprises a Chief 
+Justice and such other Judges as the President may, from time to 
+time, appoint. The Chief Justice of a High Court is appointed by the 
+President in consultation with the Chief Justice of India and the 
+Governor of the State. The procedure for appointing puisne Judges 
+is the same except that the Chief Justice of the High Court 
+concerned is also consulted. They hold office until the age of 62 
+years and are removable in the same manner as a Judge of the 
+Supreme Court. To be eligible for appointment as a Judge one must 
+be a citizen of India and have held a judicial office in India for ten 
+years or must have practised as an Advocate of a High Court or two 
+or more such Courts in succession for a similar period.
+The transfer of Judges from one High Court to another High Court is 
+made by the President after consultation with the Chief Justice of 
+India under Article 222 (1) of the Constitution.
+7
+3. Subordinate Courts
+Different State laws provide for different kinds of jurisdiction of 
+courts. Each State is divided into judicial districts presided over by a 
+District and Sessions Judge, which is the principal civil court of 
+original jurisdiction and can try all offences including those 
+punishable with death. The Sessions Judge is the highest judicial 
+authority in a district. Below him, there are Courts of civil jurisdiction, 
+known in different States as Munsifs, Sub-Judges, Civil Judges and 
+the like. Similarly, the criminal judiciary comprises the Chief Judicial 
+Magistrates and Judicial Magistrates of First and Second Class.
+In exercise of powers conferred under proviso to Article 309 read 
+with Articles 233 and 234 of the Constitution, the State Government 
+frames rules and regulations in consultation with the High Court for 
+appointments, posting and promotion of District Judges. As per 
+Article 235, the control over subordinate courts in a State vests in 
+the High Court. The members of the State Judicial Service are 
+governed by these rules and regulations. Therefore, the service 
+conditions, including appointment, promotion, and reservations etc. 
+of judicial officers of the District/Subordinate Courts are governed by 
+the respective State Governments.
+NATIONAL JUDICIAL APPOINTMENTS COMMISSION
+The Government of India has decided to set up a National judicial 
+Appointments Commission (NJAC) for appointment of Judges of 
+Supreme Court and High Courts. The NJAC would replace the 
+present Collegium system of the Supreme Court for recommending 
+appointment of Judges in higher judiciary.
+8
+The Constitution Amendment Act, 2014 published on 31st December, 
+2014 provides for the composition and the functions of the National 
+Judicial Appointments Commission (NJAC). The NJAC would be 
+chaired by the Chief Justice of India. Its membership would include 
+two senior most Judges of the Supreme Court, the Union Minister of 
+Law & Justice, two eminent persons to be nominated by a committee 
+of the Prime Minister of India, the Chief Justice of India, and the 
+Leader of the Opposition in the House of the People, or if there is no 
+Leader of the Opposition, then the Leader of the single largest 
+Opposition Party in the House of the People. Secretary (Justice) will 
+be the Convenor of the Commission.
+GRIEVANCES AGAINST JUDICIARY 
+Department of Justice receives online/off line grievances from public 
+against judgments of the Courts, delay in their cases and against 
+Judges/Judicial Officers. These grievances are forwarded to the 
+Secretary General of Supreme Court/Registrar Generals of the 
+concerned High Courts for disposal at their end.
+PREVIOUS VISIT OF CHINESE DELEGATION
+A Chinese Delegation lead by Shri Zhang Sujun, Hon’ble Vice 
+Minister for Justice of People’s Republic of China, visited 
+Department of Justice on 26th Nov, 2012 and held discussions with 
+Secretary (Justice) and other senior officers of Department of 
+Justice. A copy of the Record of Discussion of this meeting is at 
+Annexe-I.
+MOU BETWEEN INDIA & CHINA
+A Memorandum of Understanding between the Ministry of law & 
+Justice of the Government of Republic of India and the Supreme 
+9
+Peoples’ Prosecution Service of the People’s Republic of China 
+relating to promotion of cooperation in Legal/Judicial matters was 
+signed on 23rd June, 2003. Copy of the MoU is at Annexe-II.
+---------
+10
+Annexe
+ Appointment, resignation and removal of the Chief Justice of 
+India, Judges of the Supreme Court of India and High courts; their 
+salaries, rights in respect of leave of absence (including leave 
+allowances), pensions and travelling allowances. 
+ Constitution and organization (excluding jurisdiction and powers) 
+of the Supreme Court (but including contempt of such Court) and the 
+fees taken therein. 
+ Constitution and organization of the High courts and the courts of 
+Judicial Commissioners except provisions as to officers and servants 
+of these courts.
+ Constitution and organization of courts in the Union Territories 
+and fees taken in such courts. 
+ Administration of funds approved under Finance Commission 
+awards. 
+ Collection of data on institution, disposal, pendency of cases in 
+courts and monitoring the status of under trial prisoners. 
+ Initiate policy measures for judicial reforms. 
+ Setting up and operationalisation of National Mission for Justice 
+Delivery and Legal reforms. 
+ Creation of All India Judicial Service (AIJS). 
+ Implementation of various schemes to facilitate development and 
+modernization of infrastructure for judiciary. 
+ Strengthening Department of Justice – e-office, statistical wing, 
+revamp official website, training and augmentation of human 
+resources 
+*******}\n\n
+
+Supportive Environment to Resolve Family Disputes!
+For a friendly and amicable resolution of family disputes, choose the Family Court! Designed for specialized and compassionate handling of familial issues, it offers a supportive environment to resolve conflicts and foster harmony. #DoJ  #FamilyCourt \n\n
+Under the Department of Justice@MLJ_GoI's Centrally Sponsored Scheme, an allocation of ₹38.985 crore has been made to the State of Bihar to expand and upgrade the state's judicial infrastructure, enhancing both access to justice and the quality of judicial services towards a more efficient judicial system in Bihar. #CSS #NyayaVikas \n\n
+
+Join the movement, start your own Samvidhan Katta, share your stories!
+Individuals from all walks of life – students, scholars, legal professionals, and common citizens can come together to engage in meaningful conversations about the constitution:
+-Case studies or stories illustrating the constitution’s role in addressing caste, gender, or other forms of discrimination;
+-Narratives on community initiatives that promote constitutional values;
+-Reflection on landmark Supreme court Judgments and their impact on society, and suchlike;
+-Personal experiences where constitutional rights were upheld or challenged
+Stories and narratives can also be submitted under the “Samvidhan Katta” initiative.
+For format, themes, structure, submission guidelines, and other information, visit the link:doj.gov.in/guidelines-for…
+ Submit your Stories at: ramsingh.66@gov.in
+ Last Date of Submission: 13.09.2024 \n\n
+Be part of this campaign, create your constitution Katta group, share your stories!
+Individuals from all sectors - students, scholars, legal professionals and general citizens can come together to have meaningful conversations about the Constitution:
+- Case studies or stories depicting the role of the Constitution in eradicating caste, gender or other types of discrimination;
+- Description of community initiatives promoting constitutional values;
+- Conversation on historical decisions of the Supreme Court and their impact on society etc;
+- Personal experience when constitutional rights are protected or violated.
+Stories and articles can also be sent under the initiative of Constitution Katta.
+For format, subject, structure, presentation guidelines and other information please visit the link: https://doj.gov.in/guidelines-for-submission/
+Send your stories here : ramsingh. 66@gov.in
+Last date for submission: 13.09.2024 \n\n
+Justice available locally!
+The provision of establishing village courts to provide justice locally in villages under the Village Court Act, 2008. The courts act as a court of first-class judicial magistrate with civil and criminal jurisdiction to resolve small-fat disputes. The state governments are responsible to establish these courts, which establish them as necessary with the consultation of their respective high courts. #VillageNyalayas #Doj \n\n
+Shri Niraj Kumar Gayagi, Joint Secretary (Access to Justice & Legal Aid to Poor, Justice-I, and Grievances), planted a tree on the Jaisalmer House lawn today. This  was part of the "Ek Ped Maa Ke Naam" #Plant4Mother campaign, launched by the Hon’ble Prime Minister of India, demonstrating a commitment to sustainability and the assurance of a livable future. #DoJ #GreenIndia \n\n
+Shri Raj Kumar Goyal, Secretary, Department of Justice, Ministry of Law and Justice, participated in a significant environmental initiative by planting a tree on the lawn of Jaisalmer House on September 3, 2024. This activity was part of the “Ek Ped Maa Ke Naam” #Plant4Mother campaign, launched by the Hon’ble Prime Minister of India, symbolizing our commitment to nurturing Mother Earth and securing a sustainable future for future generations. #DoJ \n\n
+Shri Jagannath Srinivasan, Joint Secretary (Appointments), took part in the "Ek Ped Maa Ke Naam" #Plant4Mother campaign, launched by the Hon’ble Prime Minister of India, by planting a tree on Jaisalmer House lawn today, demonstrating a commitment and contribution to a greener world. #DoJ #GreenIndia \n\n
+Shri Pravash Prashun Pandey, Joint Secretary (eCourts, Justice-II, and National Judicial Academy), planted a tree on the Jaisalmer House lawn on September 3, 2024, as a genuine act of respect for Mother Earth and as a part of the "Ek Ped Maa Ke Naam" #Plant4Mother campaign, launched by the Hon’ble Prime Minister of India, for caring for our planet and ensuring a safe environment for the future. #DoJ #GreenIndia \n\n
+Shri Gaurav Masaldan, Joint Secretary (Administration, Coordination, and National Mission for Justice Delivery & Legal Reforms), planted a tree on the lawn of Jaisalmer House on September 3, 2024, in a heartfelt tribute to Mother Earth. This gesture was a part of the "Ek Ped Maa Ke Naam" #Plant4Mother campaign, underscoring a commitment in pursuit of a sustainable future.#DoJ #GreenIndia \n\n
+Hearing and justice within a fixed deadline!
+Fast Track Special Courts (FTSC) has been provided specifically for quick justice delivery. Decisions are made here as soon as possible considering the serious cases and the sensitivity of the victims. These courts reduce delays in the judicial process through fixed time justice, as well as organized processes, which can help reduce the number of pending cases. #FTSC #DoJ \n\n
+
+
+
+Supportive Environment to Resolve Family Disputes!
+
+For a friendly and amicable resolution of family disputes, choose the Family Court! Designed for specialized and compassionate handling of familial issues, it offers a supportive environment to resolve conflicts and foster harmony. #DoJ  #FamilyCourt \n\n
+How you support, everything is in favour of women, Indian legal system is totally gender biased, wife files false cases on husband, asks lakhs and crores in maintenance and court gives order to pay maintenance, despite wife is working earning good. 
+@NyayPrayaas
+ 
+@MenTooSave \n\n
+#FamilyCourts are not following the Child Custody and Access guidelines laid down by various HCs across the country and this goes against the principle of #NaturalJustice. The Courts need to implement #SharedParenting so that the child doesn't bear the brunt of family disputes.\n\n
+If there is a court, there should be no family. The state has interfered in households, and they've messed things up, just as they do when they govern. Check out the term: libertarianism.
+Is there a #GenderWar? Why is it there?
+@realsiff \n\n
+Child custody goes to #Women,
+Maintenance goes to #Women,
+Alimony goes to #Women
+Where is a friendly and amicable resolution?? Everything is #GenderBiased.\n\n
+Family courts are there for doing legal extortion and giving absurd judgments against main for things they have never done. Prove me wrong. Even supreme court and all others courts says false cases are used as weapon against men.\n\n
+Where an approach, a decision, a system everything is #GenderBiased what a man can expect??? Nothing but #LegalTerrorism, #LegalExtortion \n\n
+
+
+Help
+Are you finding it difficult to access/navigate through the content/pages of this Portal? This section attempts to help you have a pleasant experience while browsing this Portal.\n\n
+Accessibility
+We are committed to ensure that the site is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim, to provide maximum accessibility and usability to its visitors.
+
+Best efforts have been put to ensure that all information on this website is accessible to people with disabilities. For example, a user with visual disability can access this website using assistive technology, such as screen reader. Users with low vision can use high contrast and font size increase options. This website meets level AA of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C).
+
+If you have any problem or suggestion regarding the accessibility of this Site, please send a feedback to us.\n\n
+Screen Reader Access
+Our visitors with visual impairments can access the site using Assistive Technologies, such as screen readers.
+
+Following table lists the information about different screen readers: \n\n
+Viewing Information in Various File Formats
+The information provided by this Web site is available in various file formats, such as Portable Document Format (PDF), Word, Excel and PowerPoint. To view the information properly, your browser need to have the required plug-ins or software. For example, the Adobe Flash software is required to view the Flash files. In case your system does not have this software, you can download it from the Internet for free. The table lists the required plug-ins needed to view the information in various file formats.\n\n
+
+
+{About Department
+As per the Allocation of Business (Rules), 1961, Department of Justice is a part of Ministry of Law & Justice, Government of India. It is one of the oldest Ministries of the Government of India. Till 31.12.2009, Department of Justice was part of Ministry of Home Affairs and Union Home Secretary had been the Secretary of Department of Justice. Keeping in view the increasing workload and formulating many policies and programmes on Judicial Reforms in the country, a separate Department namely Department of Justice was carved out from MHA and placed under the charge of Secretary to Government of India and it started working as such from 1st January, 2010 under the Ministry of Law & Justice. The Department is housed in the Jaisalmer House, 26, Man Singh Road, New Delhi. The Organizational setup of the Department includes 04 Joint Secretaries, 08 Directors/ Deputy Secretaries and 09 Under Secretaries. The functions of the Department of Justice include the appointment, resignation and removal of the Chief Justice of India, Judges of the Supreme Court of India, Chief Justices and Judges of the High Courts and their service matters. In addition, the Department implements important schemes for Development of Infrastructure Facilities for Judiciary, setting up of Special Courts for speedy trial and disposal of cases of sensitive nature (Fast Track Special Court for cases of rape and POCSO Act), E-court Project on computerization of various courts across the country, legal aid to poor and access to justice, financial assistance to National Judicial Academy for providing training to the Judicial Officers of the country. The functions of Department of Justice are given in Allocation of Business (Rules), 1961
+Whats New
+Detailed Demand for Grants for the year 2024-25
+Order of appointment of Shri Justice Syed Qamar Hasan Rizvi and 08 other Additional Judges of the Allahabad High Court as Permanent Judges of that High Court (21.08.2024)
+Order of appointment of Smt. Justice Venkata Jyothirmai Pratapa and 01 other, Additional Judges of the Andhra Pradesh High Court as Permanent Judges of that High Court (21.08.2024)
+Order of appointment of Shri Justice Hamarsan Singh Thangkhiew, Judge of the Meghalaya High Court as Acting Chief Justice of that High Court (14.08.2024)
+Call for Proposals under “Scheme for Action Research and Studies on Judicial Reforms” of Department of Justice-reg.
+Order of appointment of Shri Bibhu Datta Guru and one other as Additional Judges of the Chhattisgarh High Court (12.08.2024)
+Monthly Achievement for July, 2024
+Order of appointment of Shri Justice Biswaroop Chowdhury & others, Additional Judges of the Calcutta High Court as Add. Judges of that HC for a fresh term of 1 year w.e.f.31.08.2024 (05.08.2024)
+Order of appointment of Sh. Justice Girish Kathpalia and 02 other Addl. Judges as Permanent Judges of Delhi HC (19.07.2024)
+Order of appointment Sh. Justice S.A. Deshmukh and 01 other Addl. Judge as Addl. Judges of Bombay HC for fresh term of one year w.e.f. 07.10.2024 (19.07.2024)}\n\n
+
+
+{About the Ministry
+Ministry of Law and Justice is the oldest limb of the Government of India dating back to 1833 when the Charter Act 1833 enacted by the British Parliament. The said Act vested for the first time legislative power in a single authority, namely the Governor General in Council. By virtue of this authority and the authority vested under him under section 22 of the Indian Councils Act 1861 the Governor General in Council enacted laws for the country from 1834 to 1920. After the commencement of the Government of India Act 1919 the legislative power was exercised by the Indian Legislature constituted thereunder. The Government of India Act 1919 was followed by the Government of India Act 1935. With the passing of the Indian Independence Act 1947 India became a Dominion and the Dominion Legislature made laws from 1947 to 1949 under the provisions of section 100 of the Government of India Act 1935 as adapted by the India (Provisional Constitution) Order 1947. Under the Constitution of India which came into force on the 26th January 1950 the legislative power is vested in Parliament.
+
+
+
+COMPOSITION OF THE MINISTRY
+The Ministry of Law and Justice consists of three Departments, namely, the Legislative Department, the Department of Legal Affairs and the Department of Justice. The Department of Legal Affairs is concerned with advising the various Ministries of the Central Government while the Legislative Department is concerned with drafting of principal legislation for the Central Government. India Code which consists of laws enacted from the previous century and which are in force in the territory of India are available on the net
+}\n\n
+
+
+
+
+{History
+
+As per the Allocation of Business (Rules), 1961, Department of Justice is a part of Ministry of Law & Justice, Government of India. It is one of the oldest Ministries of the Government of India. Till 31.12.2009, Department of Justice was part of Ministry of Home Affairs and Union Home Secretary had been the Secretary of Department of Justice. Keeping in view the increasing workload and formulating many policies and programmes on Judicial Reforms in the country, a separate Department namely Department of Justice was carved out from MHA and placed under the charge of Secretary to Government of India and it started working as such from 1st January, 2010 under the Ministry of Law & Justice}\n\n
+
+
+{About Department
+
+As per the Allocation of Business (Rules), 1961, Department of Justice is a part of Ministry of Law & Justice, Government of India. It is one of the oldest Ministries of the Government of India. Till 31.12.2009, Department of Justice was part of Ministry of Home Affairs and Union Home Secretary had been the Secretary of Department of Justice. Keeping in view the increasing workload and formulating many policies and programmes on Judicial Reforms in the country, a separate Department namely Department of Justice was carved out from MHA and placed under the charge of Secretary to Government of India and it started working as such from 1st January, 2010 under the Ministry of Law & Justice. The Department is housed in the Jaisalmer House, 26, Man Singh Road, New Delhi. The Organizational setup of the Department includes 04 Joint Secretaries, 08 Directors/ Deputy Secretaries and 09 Under Secretaries. The functions of the Department of Justice include the appointment, resignation and removal of the Chief Justice of India, Judges of the Supreme Court of India, Chief Justices and Judges of the High Courts and their service matters. In addition, the Department implements important schemes for Development of Infrastructure Facilities for Judiciary, setting up of Special Courts for speedy trial and disposal of cases of sensitive nature (Fast Track Special Court for cases of rape and POCSO Act), E-court Project on computerization of various courts across the country, legal aid to poor and access to justice, financial assistance to National Judicial Academy for providing training to the Judicial Officers of the country. The functions of Department of Justice are given in Allocation of Business (Rules), 1961.}\n\n
+
+
+{Vision and Mission
+VISION:
+Facilitating administration of Justice that ensures easy access and timely delivery of Justice to all.
+
+MISSION:
+Ensuring adequacy of courts and judges,  including servicing of appointment of  Judges to the higher judiciary, modernization of courts and procedures, policies for judicial reforms, and legal aid to the poor for improved justice delivery.}\n\n
+
+
+{Functions of Department
+
+Appointment, resignation and removal of the Chief Justice of India, Judges of the Supreme Court of India and High Courts; their salaries, rights in respect of leave of absence (including leave allowances), pensions and travelling allowances.
+Constitution and organization (excluding jurisdiction and powers) of the Supreme Court (but including contempt of such Court) and the fees taken therein.
+Constitution and organization of the High Courts and the Courts of Judicial Commissioners except provisions as to officers and servants of these Courts.
+Constitution and organization of Courts in the Union Territories and fees taken in such Courts.
+Implementation of proposals recommended and approved under Finance Commission awards.
+Collection of data on institution, disposal, pendency of cases in Courts and monitoring the status of under trial prisoners.
+Initiate policy measures for judicial reforms.
+Setting up and operationalization of National Mission for Justice delivery and Legal reforms.
+Setting up of Fast Track Special Courts (FTSCs) for speedy trial and disposal of cases of sexual offences.
+Creation of All India Judicial Service (AIJS).
+Implementation of various schemes to facilitate development and modernization of infrastructure for justify judiciary.
+Strengthening Department of Justice – e-office, statistical wing, revamping of official website and training thereupon.
+All matters related to  National Judicial Academy.
+Achieve the objective of universal computerisation of all the District & Subordinate Court complexes by provision of hardware, software and WAN connectivity in close coordination with the eCommitee of The Supreme Court of India as a part of the eCourts Project.
+Implementation of Central Sector Scheme “Designing Innovative Solutions for Holistic Access to Justice in India (DISHA)” to further the cause of access to justice.
+All matters related to National Legal Services Authority (NALSA).}\n\n
+
+
+{Organization Chart
+
+HON’BLE MINISTER OF STATE, LAW AND JUSTICE (IC)
+SECRETARY (DEPARTMENT OF JUSTICE)
+JOINT SECRETARY (ECOURTS, JUSTICE- II, AND NATIONAL JUDICIAL ACADEMY)
+DEPUTY SECRETARY (JUSTICE-II)
+US (JUSTICE-II)
+SO (JUSTICE-II)
+DIRECTOR (ECOURTS)
+US (ECOURTS)
+SO (ECOURTS)
+JOINT SECRETARY (ADMINISTRATION, COORDINATION AND NATIONAL MISSION FOR JUSTICE DELIVERY & JUDICIAL REFORMS)
+DEPUTY SECRETARY (ADMINISTRATION & COORDINATION)
+US (ADMINISTRATION-I)
+SO (ADMIN-I)
+SO (RTI)
+SO (R & I)
+SO (CASH & DDO)
+US (ADMINISTRATION-II)
+SO (ADMIN-II)
+US (COORDINATION)
+SO (COORDINATION)
+DIRECTOR (NATIONAL MISSION FOR JUSTICE DELIVERY & JUDICIAL REFORMS-I)
+DIRECTOR (NATIONAL MISSION FOR JUSTICE DELIVERY & JUDICIAL REFORMS-II)
+US-I (NATIONAL MISSION FOR JUSTICE DELIVERY & JUDICIAL REFORMS)
+SO (NATIONAL MISSION FOR JUSTICE DELIVERY & JUDICIAL REFORMS-I)
+US-II (NATIONAL MISSION FOR JUSTICE DELIVERY & JUDICIAL REFORMS)
+JOINT SECRETARY (JUSTICE-I & ACCESS TO JUSTICE)
+DEPUTY SECRETARY (JUSTICE- I)
+US (JUSTICE-I)
+SO (JUSTICE-I)
+SO (GRIEVANCE)
+DIRECTOR (ACCESS TO JUSTICE)
+US (ACCESS TO JUSTICE)
+SO (ACCESS TO JUSTICE)
+JOINT SECRETARY (APPOINTMENTS)
+DEPUTY SECRETARY (APPOINTMENTS)
+US (APPOINTMENTS-I )
+US (APPOINTMENTS-II )
+SO (APPOINTMENTS)}\n\n
+
+
+{Administrative Setup
+
+Work Allocated to Joint Secretaries
+Shri Jagannath Srinivasan, Joint Secretary
+Appointment of Judges
+Setting up of new High Courts/Benches
+Judicial Standards and Accountability
+Increasing the retirement age of Judges of High Courts
+Increasing the Judge Strength of High Courts
+All India Judicial Service
+Shri Pravash Prashun Pandey, Joint Secretary
+eCourts Project
+Fast Track Special Courts for cases of Rape and POCSO Act
+Special Courts for criminal cases involving MPs/MLAs (as per directions of the Hon’ble Supreme Court of India)
+Finance Commissions
+Matters relating to CM/CJ conference
+National Judicial Academy
+Citizen Charter
+Shri Niraj Kumar Gayagi, Joint Secretary
+Salary, pension and conditions of service of High Court and Supreme Court Judges
+MOU  in  the  field  of Judicial Cooperation
+Administration of Acts (High Court Judges Act, 1954, Supreme Court Judges Act, 1958, Contempt of Court Act, 1971, Court Fees Act, 1870)
+Issuance of Presidential request in case of High Court/Supreme Court Judges
+Creation and continuation of posts in subordinate courts in UTs
+Reference regarding State Legislation
+Use of Hindi and regional languages in proceedings of High Court & Supreme Court
+Public Grievances
+Legal Aid to Poor (NALSA)
+Designing Innovative Solution for Holistic Access to Justice (DISHA) (Tele Law, Nyaya Bandhu, Nyaya Mitra, Legal Literacy and Awareness)
+Shri Gaurav Masaldan, Joint Secretary
+General Administration
+Establishment Matter
+Official Language
+Parliament Work
+Audit & Budget
+National Mission for Justice Delivery and Legal Reforms
+Reengineering Procedures and Alternative Methods of Disputes Resolution
+Gram Nyayalayas
+Judicial Infrastructure
+Pendency Reduction Campaign
+Enforcing Contracts
+Ease of Doing Business
+Rule of Law Index (ROLI)
+Data Governance Quality Index (DGQI)}\n\n
+
+
+
+{VISION:
+Facilitating administration of Justice that ensures easy access and timely delivery of Justice to all.
+
+MISSION:
+Ensuring adequacy of courts and judges, including appointment of Judges to the higher judiciary, modernization and digitisation of courts and procedures, policies for judicial reforms and Legal aid to the poor with suitable use of technology for improved justice delivery.
+
+SI. No.	Service/ Transaction	Weightage (%)	Responsible Person (Designation)	e-mail	Mobile/ Phone Numbers	Process	Document Required	Category	Mode	Amount
+1	Issue of Notification for appointment of Judges in the Supreme Court and the High Courts.	15	Joint Secretary (JNS)	jsapp[dash]doj[at]gov[dot]in	011- 23383037	After approval of the President, Notification is issued by Department of Justice.	Complete proposal.	N/A	N/A	N/A
+2	Issue of
+Notification for transfer of Judges.	6	Joint Secretary (JNS)	jsapp[dash]doj[at]gov[dot]in	011-23383037	After approval of the President, Notification is issued by Department of Justice.	Complete
+proposal.	N/A	N/A	N/A
+3	Release of grant-in-aid to NALSA for implementation of Legal Aid Programme in the States/UTs.	4	Joint Secretary (NKG)	jsa2j[-]doj[at]gov[dot]in	011-23385020	The proposals received from NALSA, in complete form is processed in the Department and approval of Competent Authority obtained	Complete Proposal along with Audited statement of Account and Utilisation Certificates for previous year’s grants-in-aid.	N/A	N/A	N/A
+4	Representation/ grievances from public seeking legal aid.	4	Joint Secretary (NKG)	jsa2j[-]doj[at]gov[dot]in	011-23385020	The representations received from the public are examined in the Department and forwarded to NALSA for appropriate action.	No documents are required	N/A	N/A	N/A
+5	Designing Innovative
+Solutions for Holistic Access to Justice (DISHA) -Various activities relating to DISHA include Tele-Law, Nyaya Bandhu (Pro Bono Legal Services) and Pan-India Legal Literacy and Legal Awareness.	3	Joint Secretary (NKG)	jsa2j[-]doj[at]gov[dot]in	011-23385020	DISHA scheme has been introduced in the year 2021-2022 with the approval from Deptt. of Expenditure for the period 2021-2026. The proposal received from various agencies are processed in the Department and approval of Competent Authority is obtained.	Complete Proposal, financial details, consent from all stakeholder etc.	N/A	N/A	N/A
+6	Release of fund in instalments for DISHA Programmes.	2	Joint Secretary (NKG)	jsa2j[-]doj[at]gov[dot]in	011-23385020	The request received from the partner agencies are examined in the department and approval of competent authority is obtained subject to availability of funds.	Progress Report, Utilisation Certificate along with details of activities completed.	N/A	N/A	N/A
+7	Release of grant to the States/UTs under the Centrally Sponsored Scheme for Infrastructure Development of Judiciary.	10	Joint Secretary (GM)	masaldan[dot]gaurav[at]nic[dot]in	011-23072142	The proposals received from the State/UT Governments are processed in the Department and approval of the Competent Authority obtained, subject to availability of funds under the Scheme and allocation to a particular State/UT	Complete proposal along with Utilisation Certificates / Expenditure shown on PFMS for previous releases along with expenditure of state matching share.	N/A	N/A	N/A
+8	Release of grants to the States/UTs for Gram Nyayalayas.	5	Joint Secretary (GM)	masaldan[dot]gaurav[at]nic[dot]in	011-23072142	The proposals received from the State/UT Governments are processed in the Department and the approval of Competent Authority obtained, subject to availability of funds.	Complete proposal along with Utilisation Certificates for previous releases.	N/A	N/A	N/A
+9	Release of Funds to NIC & High Courts on recommendation of e-Committee of the Supreme Court of India under e-Courts Mission Mode project (Phase-III).	8	Joint Secretary (PPP)	pravash[dot]panday2[at]gov[dot]in	011-23381496	The proposal received from e-Committee of the Supreme Court of India are examined and sent to Competent Authority for approval and release of funds	Complete proposal along with approval of e-Committee of the Supreme Court of India.	N/A	N/A	N/A
+10	Release of grant to National Judicial Academy.	4	Joint Secretary (PPP)	pravash[dot]panday2[at]gov[dot]in	011-23381496	The proposals received from National Judicial Academy are examined and approval of the Competent Authority obtained.	Complete proposal along with Utilisation Certificate for previous releases.	N/A	N/A	N/A
+11 (a)	Release of central share of funds for the Scheme of Fast Track Special Courts(FTSCs) including exclusive POCSO courts for trial and disposal of cases related to rape and POCSO Act.	8	Joint Secretary (PPP)	pravash[dot]panday2[at]gov[dot]in	011-23381496	The consent/ proposals received from the State/ UT Governments is examined and approval of the Competent Authority obtained.	Receipt of consent and compliance of revised procedure for release of CSS funding including receipt of Expenditure Statement. The Scheme is running on reimbursement mode where funds are released after the Expenditure has already been incurred by the States/UTs.	N/A	N/A	N/A
+(b)	Release of funds for the 10 functional Special Courts set up for trial of Criminal Cases involving elected MPs/MLAs as per directions of the Supreme Court of India in WP (C) 699 of 2016 dated 01.11.2017.	2	Joint Secretary (PPP)	pravash[dot]panday2[at]gov[dot]in	011-23381496	The proposals received from the concerned State Governments are examined and approval of the Competent Authority obtained.	Receipt of proposal and UC of released funds from the concerned state Govt.	N/A	N/A	N/A
+12 (a)	Grievances related to Supreme Court/High Court Judges.	4	Joint Secretary (JNS)	jsapp[dash]doj[at]gov[dot]in	011-23383037	The complaints received are forwarded to the Supreme Court or the respective High Court.		N/A	N/A	N/A
+(b)	Grievances related to District and Subordinate Courts	6	Joint Secretary (NKG)	jsa2j[-]doj[at]gov[dot]in	011- 23385020	Returned to the Grievance holder to file complaint in a sworn-in-affidavit with verifiable facts to the concerned Registrar General of High Court.		N/A	N/A	N/A
+(c)	Grievances relating to other Ministries/ Departments or State/UT Governments or other agencies.	2	Joint Secretary (NKG)	jsa2j[-]doj[at]gov[dot]in	011- 23385020	Complaints against other officials are sent to the public authorities in the Central or State/UT Governments as the case may be, for appropriate action under intimation to the complainant.		N/A	N/A	N/A
+(d)	Grievances Which can be addressed by Administration Unit of the Department of Justice.	2	Joint Secretary (GM)	masaldan[dot]gaurav[at]gov.in	011- 23072142	Complaints relating to subject matters dealt with by Administration Unit of Department of Justice are examined and decided.		N/A	N/A	N/A
+13	Issue of orders sanctioning Pension and other retirement benefits to Judges of the Supreme Courts/High Courts.	10	Joint Secretary (NKG)	jsa2j[dash]doj[at]gov[dot]in	011 23385020	The proposals received from the Pay & Accounts office, Supreme Court and office of the Accountant General of the State concerned are examined and approval of the Competent Authority obtained	Complete proposal with details.	N/A	N/A	N/A
+14{	Issue of orders sanctioning leave to the Judges of the Supreme Court/High Courts.	5	Joint Secretary (NKG)	jsa2j[dash]doj[at]gov[dot]in	011 23385020	The proposals received from the Supreme Court and the respective High Courts are examined and approval of the Competent Authority obtained.	Complete proposal with details.	N/A	N/A	N/A}\n\n
+{
+Ministers
+
+{Shri Arjun Ram Meghwal
+Hon’ble Minister of State, Law and Justice (IC)
+mljoffice[at]gov[dot]in
+4th Floor, 'A' Wing, Shastri Bhawan
+01123386974
+01123384241
+402-A}\n\n
+
+{Dr. Rajiv Kumar Verma
+PS
+4th Floor, 'A' Wing, Shastri Bhawan
+01123387557
+01123384241
+402-A}\n\n
+
+{Shri Anshu Bhardwaj
+Addl. PS
+4th Floor, 'A' Wing, Shastri Bhawan
+01123387557
+01123384241
+403-A}\n\n
+
+{Shri R.K. Mishra
+Addl. PS
+4th Floor, 'A' Wing, Shastri Bhawan
+01123387557
+01123384241
+403-A}\n\n
+
+{Shri Aman Chawla
+PPS
+4th Floor, 'A' Wing, Shastri Bhawan
+01123387557
+403-A}\n\n
+
+{Shri Mukesh Kumar
+Asstt. PS
+4th Floor, 'A' Wing, Shastri Bhawan
+01123387557
+01123384241
+403-A}\n\n
+
+{Shri Teja Ram Meghwal
+First PA
+4th Floor, 'A' Wing, Shastri Bhawan
+01123387557
+01123384241
+403-A}\n\n
+
+{Personal Section
+Personal Section
+4th Floor, 'A' Wing, Shastri Bhawan
+01123070045
+403-A} }
+\n\n
+
+{Secretary
+
+{Shri Raj Kumar Goyal
+Secretary (Justice)
+secy-jus[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123383674
+01123384516
+14}\n\n
+
+{Shri S.K. Mishra
+PPS to Secretary (Justice)
+sk[dot]mishra74[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123383674
+01123384516
+14-A}
+}\n\n
+
+{joint secretary
+
+{Shri Pravash Prashun Pandey
+Joint Secretary (eCourts, Justice-II and National Judicial Academy)
+pravash[dot]panday2[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123381496
+01123381496
+25}\n\n
+
+{Shri Niraj Kumar Gayagi
+Joint Secretary (Access to Justice & Legal Aid to Poor, Justice-I and Grievances)
+jsa2j-doj[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123385020
+01123385020
+01}\n\n
+
+{Shri Gaurav Masaldan
+Joint Secretary (Administration, Coordination and National Mission for Justice Delivery & Legal Reforms)
+masaldan[dot]gaurav[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072142
+01123072142
+04}\n\n
+
+{Shri Jagannath Srinivasan
+Joint Secretary (Appointments)
+jsapp-doj[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123383037
+01123072387
+16}
+}\n\n
+
+{Director / Deputy Secretary
+
+{Ms. Radha Katyal Narang
+Director (National Mission & Judicial Reforms-I)
+radha[dot]katyal[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123070673
+40-A}\n\n
+
+{Shri Yashasvi Kumar
+Director (National Mission & Judicial Reforms-II)
+yashasvikumar[dot]dad[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072135
+28}\n\n
+
+{Shri Ashok Kumar
+Director (e-Courts)
+dir-ecourts-doj[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072145
+01123072152
+12}\n\n
+
+{Shri B. Chandra Mohiyar
+Director (Access to Justice and Legal Aid to Poor)
+dirj1-doj[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123385332
+12-D}\n\n
+
+{Shri Anil Sharma
+Deputy Secretary (Justice-I)
+sharma[dot]anil[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072139
+34-A}\n\n
+
+{Shri Narayan Prasad
+Deputy Secretary (Appointments)
+n[dot]prasad68[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072149
+01123072149
+12-B}\n\n
+
+{Shri R.C. Ahuja
+Deputy Secretary (Administration & Coordination)
+rc[dot]ahuja[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123382570
+26}\n\n
+
+{Shri Biswanath Sahoo
+Deputy Secretary (Justice-II)
+b[dot]sahoo66[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+30}
+}\n\n
+
+{Under Secretary
+{Shri Sanjay Kumar
+Under Secretary (Admn-I)
+yadav[dot]sanjay05[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072137
+01123072137
+22-A}\n\n
+
+{Shri A.S. Lungreishang
+Under Secretary (Admn-II)
+shanglai[dot]a[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+Shri M.S. P. Dara
+Under Secretary (Coordination)
+mspaul[dot]dara[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+40-B}\n\n
+
+{Ms. Amarjeet Sroa
+Under Secretary (National Mission & Judicial Reforms-I)
+amarjeet[dot]sroa[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072140
+23}\n\n
+
+{Shri Gaurav Kumar Tripathi
+Under Secretary (National Mission & Judicial Reforms-II)
+gaurav[dot]tripathi[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072140
+23}\n\n
+
+{Shri Rang Lal Meena
+Under Secretary (e-Courts)
+26, Mansingh Road, Jaisalmer House
+Shri Prem Chand
+Under Secretary (Appointments-I)
+prem[dot]chand77[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123382978
+12-A}\n\n
+
+{Shri Anant Kumar
+Under Secretary (Appointments-II)
+anant[dot]kumar43[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072138
+05}\n\n
+
+{Shri Vikash Kumar
+Under Secretary (Justice-I)
+vikashkumar[dot]edu[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+Ms. Lalita T. Hedaoo
+Under Secretary (Justice-II)
+lalita[dot]tejram[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+23}\n\n
+
+{Shri Narendra Kumar
+Under Secretary (Access to Justice and Legal Aid to Poor)
+nk[dot]tongar[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House}
+}\n\n
+
+{Section Officer
+{Shri Sanjay Kumar Tiwari
+Section Officer (Admn-I)
+s[dot]tiwari73[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+19}\n\n
+
+{Shri Rahul Chhabra
+Section Officer (Admn-II)
+r[dot]chhabra[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+29}\n\n
+
+{Shri Akash Kumar Jaiswal
+Section Officer (Coordination)
+akash[dot]jaiswal88[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072141
+24}\n\n
+
+{Shri Sandeep Biswas
+Section Officer (R & I)
+sandeep[dot]biswas[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123070673
+06}\n\n
+
+{Shri Rajesh Sagar
+Section Officer (RTI)
+rajesh[dot]kumar72[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123385346
+01123385346
+22}\n\n
+
+{Shri Hunny Chugh
+Section Officer (Cash & DDO)
+hunny[dot]chugh[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072141
+24}\n\n
+
+{Shri Narendra Kumar Verma
+Section Officer (National Mission & Judicial Reforms-I)
+narendra[dot]verma78[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072140
+23}\n\n
+
+{Ms. Chhavi Gulia
+Section Officer (Appointments)
+chhavi[dot]gulia[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123383087
+05}\n\n
+
+{Shri Hemendra Singh
+Section Officer (Justice-I)
+hemendra[dot]singh65[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123782465
+34}\n\n
+
+{Shri V.K. Chhikara
+Section Officer (Justice-II)
+vk[dot]chhikara28[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123385346
+22}\n\n
+
+{Shri Ram Singh
+Section Officer (Access to Justice)
+ramsingh[dot]66[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072147
+36-A}\n\n
+
+{Shri Suresh Kumar Mahan
+Section Officer (eCourts)
+suresh[dot]mahan[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072552
+01123072552}\n\n
+
+{27Section Officer
+Shri Sanjay Kumar Tiwari
+Section Officer (Admn-I)
+s[dot]tiwari73[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+19}\n\n
+
+{Shri Rahul Chhabra
+Section Officer (Admn-II)
+r[dot]chhabra[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+29}\n\n
+
+{Shri Akash Kumar Jaiswal
+Section Officer (Coordination)
+akash[dot]jaiswal88[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072141
+24}\n\n
+
+{Shri Sandeep Biswas
+Section Officer (R & I)
+sandeep[dot]biswas[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123070673
+06}\n\n
+
+{Shri Rajesh Sagar
+Section Officer (RTI)
+Rajesh[dot]kumar72[at]Nic[dot]in
+26, Man Singh Road, Jaisalmer House
+01123385346
+01123385346
+22}\n\n
+
+{Shri Hunny Chugh
+Section Officer (Cash & DDO)
+hunny[dot]chugh[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072141
+24}\n\n
+
+{Shri Narendra Kumar Verma
+Section Officer (National Mission & Judicial Reforms-I)
+narendra[dot]verma78[at]nic[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072140
+23}\n\n
+
+{Ms. Chhavi Gulia
+Section Officer (Appointments)
+chhavi[dot]gulia[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123383087
+05}\n\n
+
+{Shri Hemendra Singh
+Section Officer (Justice-I)
+hemendra[dot]singh65[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123782465
+34}\n\n
+
+{Shri V.K. Chhikara
+Section Officer (Justice-II)
+vk[dot]chhikara28[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123385346
+22}\n\n
+
+{Shri Ram Singh
+Section Officer (Access to Justice)
+ramsingh[dot]66[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072147
+36-A}\n\n
+
+{Shri Suresh Kumar Mahan
+Section Officer (eCourts)
+suresh[dot]mahan[at]gov[dot]in
+26, Mansingh Road, Jaisalmer House
+01123072552
+01123072552
+27}
+}\n\n
+
+
+{Website Information Manager
+Last Updated : 29-11-2022
+
+{Name: Shri Pravash Prashun Pandey
+
+(Joint Secretary)
+
+Email: js[dot]ecourts[-]doj[at]gov[dot]in
+
+Phone: +91-11-23381496
+
+Address: Room No. 25, Jaisalmer House, 26, Mansingh Road, New Delhi
+
+Pin: 110011
+
+Website: www[dot]doj[dot]gov[dot]in
+
+For more details: Who’s Who}
+}\n\n
+
+{Memorandum of procedure of appointment of Supreme Court Judges
+Last updated: 11-08-2021
+
+The Chief Justice of India and the Judges of the Supreme Court are appointed by the President under clause (2) of Article 124 of the Constitution.
+
+{CHIEF JUSTICE OF INDIA :
+Appointment to the office of the Chief Justice of India should be of the senior most Judge of the Supreme Court considered fit to hold the office. The Union Minister of Law, Justice and Company Affairs would, at the appropriate time, seek the recommendation of the outgoing Chief Justice of India for the appointment of the next Chief Justice of India.
+Whenever there is any doubt about the fitness of the senior most Judge to hold the office of the Chief Justice of India, consultation with other Judges as envisaged in Article 124 (2) of the Constitution would be made for appointment of the next Chief Justice of India.
+After receipt of the recommendation of the Chief Justice of India, the Union Minister of Law, Justice and Company Affairs will put up the recommendation to the Prime Minister who will advise the President in the matter of appointment.}\n\n
+
+{JUDGES OF THE SUPREME COURT :
+Whenever a vacancy is expected to arise in the office of a Judge of the Supreme Court, the Chief Justice of India will initiate proposal and forward his recommendation to the Union Minister of Law, Justice and Company Affairs to fill up the vacancy.
+The opinion of the Chief Justice of India for appointment of a Judge of the Supreme Court should be formed in consultation with a collegium of the four senior most puisne Judges of the Supreme Court. If the successor Chief Justice of India is not one of the four senior most puisne Judges, he would be made part of the collegium as he should have a hand in selection of Judges who will function during his term as Chief Justice of India.
+The Chief Justice of India would ascertain the views of the senior most Judge in the Supreme Court, who hails from the High Court from where the person recommended comes, but if he does not have any knowledge of his merits and demerits, the next senior most Judge in the Supreme Court from that High Court should be consulted.
+The requirement of consultation with a Judge of the Supreme Court would not be confined to that Judge only who has that High Court as a parent High Court and, therefore, would not exclude Judges who have, on transfer, occupied the office of a Judge or Chief Justice of that High Court.
+The opinion of members of the collegium in respect of each of the recommendations as well as the senior most Judge in the Supreme Court from the High Court, from which a prospective candidate comes, would be made in writing and the Chief Justice of India, in all cases, must transmit his opinion as also the opinion of all concerned to the Government of India as part of record. If the Chief Justice of India or the other members of the Collegium elicit views, particularly those from the non-Judges, the consultation need not be in writing but he, who elicits the opinion, should make a memorandum thereof and its substance in general terms which should be conveyed to the Government of India.
+After receipt of the final recommendation of the Chief Justice of India, the Union Minister of Law, Justice and Company Affairs will put up the recommendations to the Prime Minister who will advise the President in the matter of appointment.
+As soon as the appointment is approved, the Secretary to the Government of India in the Department of Justice will inform the Chief Justice of India and obtain from the person selected a certificate of physical fitness signed by a Civil Surgeon or a District Medical Officer. The Medical Certificate is to be obtained from all persons selected for appointment whether they are at the time of appointment in the service of the State or not. The certificate should be in the form annexed.
+As soon as the warrant of appointment is signed by the President, the Secretary to the Government of India in the Department of Justice will announce the appointment and issue the necessary notification in the Gazette of India.}\n\n
+
+{APPOINTMENT OF ACTING CHIEF JUSTICE :
+Appointment of acting Chief Justice is to be made by the President under Article 126 of the Constitution. Vacancy in the office of the Chief Justice must be filled whatever the period of vacancy. In such an eventuality, the seniormost available Judge of the Supreme Court will be appointed to perform the duties of the office of the Chief Justice of India. As soon as the President has approved the appointment, the Secretary to the Government of India in the Department of Justice will inform the Chief Justice of India or in his absence the Judge concerned of the Supreme Court, and will announce the appointment and issue the necessary notification in the Gazette of India.}\n\n
+
+{APPOINTMENT OF AD HOC JUDGES :
+Article 127 of the Constitution provides that if at any time there should not a quorum of Judges of the Supreme Court available to hold or continue any session of the Court the Chief Justice of India may, with the previous consent of the President and after consultation with the Chief Justice of the High Court concerned request, in writing, a Judge of a High Court duly qualified for appointment as a Judge of the Supreme Court to attend, for such period as may be necessary, the sittings of the Supreme Court . Whenever the necessity for such an appointment arises, the Chief Justice of India will consult the Chief Justice of the High Court concerned whether a Judge is available to attend the sittings of the Supreme Court. The Chief Justice of the High Court will communicate his consent to the release of a particular Judge after consulting the Chief Minister of the State in which the High Court is situated. The Chief Justice of India will then communicate to the Union Minister of Law, Justice and Company Affairs the name of the Judge and the period for which he will be required to attend the sittings of the Supreme Court, certifying that the release of the Judge has been agreed to by the Chief Justice of the High Court concerned and the Chief Minister of the State. The Union Minister of Law, Justice and Company Affairs will put up the recommendation to the Prime Minister, who will advise the President as to the person to be appointed to attend the sittings of the Supreme Court. As soon as the President gives his consent to the appointment, the Secretary to the Government of India in the Department of Justice will (i) inform the Chief Justice of India, who will formally request the Judge concerned, in writing, to attend the sittings of the Supreme Court as an ad hoc Judge and (ii) announce the appointment and issue the necessary notification in the Gazette of India.}\n\n
+
+{ATTENDANCE OF RETIRED JUDGES AT SITTINGS OF THE SUPREME COURT:
+Under Article 128 of the Constitution, the Chief Justice of India may, at any time, with the previous consent of the President, request any person who has held the office of a Judge of the Supreme Court to sit and act as a Judge of the Supreme Court. Whenever, the necessity for such an appointment arises, the Chief Justice of India will informally sound the retired Judge, whom he proposes to recommend, as to the latter’s willingness to serve and will there upon communicate to the Union Minister of Law, Justice and Company Affairs the name of the Judge and the period for which he will be required to sit and act as a Judge of the Supreme Court. If the Union Minister of Law, Justice and Company Affairs considers it desirable to bring any point to the notice of the Chief Justice of India or to suggest some other name, he may by personal correspondence convey his suggestions to the Chief Justice of India. On obtaining the views of the Chief Justice of India finally the Union Minister of Law, Justice and Company Affairs will put up the proposal to the Prime Minister who will advise the President as to the person to be appointed to sit and act as a Judge of the Supreme Court. As soon as the President gives his consent to the appointment, the Secretary to the Government of India in the Department of Justice will inform the Chief Justice of India and will announce and issue the necessary notification in the Gazette of India.}
+}\n\n
+
+{
+Memorandum of procedure of appointment of High Court Judges
+Last updated: 11-08-2021
+
+{APPOINTMENT OF CHIEF JUSTICE
+The Government have, in consultation with the Chief Justice of India, decided as a matter of policy to appoint the Chief Justice of all High Courts from outside.
+In case of initial appointment of a Chief Justice of a High Court, the provisions of Article 217 will have to be followed. In the case of Jammu & Kashmir High Court, appointment of Chief Justice shall be made in accordance with section 95 of the Constitution of Jammu & Kashmir. Transfer of Chief Justice from one High Court to another will be governed by the provision of Article 222. Transfer of a Chief Justice to and from Jammu & Kashmir High Court shall be made in accordance with clause (1) of Article 222 of the Constitution of India read with Article 222(1A) of the Constitution (Application to Jammu & Kashmir) Order, 1954.
+For purposes of elevation as Chief Justices the inter-se seniority of puisne Judges will be reckoned on the basis of their seniority in their own High Courts and they will be considered for appointment as Chief Justices in other High Courts when their turn would normally have come for being considered for such appointment in their own High Courts.
+A puisne Judge in a High Court who has one year or less to retire when his turn for being considered for elevation as Chief Justice arrives may be considered for appointment as Chief Justice in his own High Court if vacancy is to occur in the office of the Chief Justice in that High Court during that period.
+Initiation of the proposal for the appointment of Chief Justice of a High Court would be by the Chief Justice of India. The process of appointment must be initiated well in time to ensure the completion at least one month prior to the date of anticipated vacancy for the Chief Justice of the High Court. The Chief Justice of India would ensure that when a Chief Justice is transferred from one High Court to another simultaneous appointment of his successor in office should be made and ordinarily the arrangement of appointment of an acting Chief Justice should not be made for more than one month.
+The Chief Justice of India would send his recommendation for the appointment of a puisne Judge of the High Court as Chief Justice of that High Court or of another High Court, in consultation with the two senior- most Judges of the Supreme Court. He would also ascertain the views of the seniormost colleague in the Supreme Court who is conversant with the affairs of the High Court in which the recommendee has been functioning and whose opinion is likely to be significant in adjudging the suitability of the candidate. It is of no consequence whether the Judge of the Supreme Court, so consulted, had that High Court as Parent High Court or was transferred there from any other High Court.
+
+The views of the Judges of the Supreme Court thus consulted would then be sent by the Chief Justice of India alongwith his proposal, to the Union Minister of Law, Justice and Company Affairs.
+
+After receipt of the recommendation of the Chief Justice of India, the Union Minister of Law, Justice and Company Affairs would obtain the views of the concerned State Government. After receipt of the views of the State Government, the Union Minister of Law, Justice and Company Affairs, will submit proposals to the Prime Minister, who will then advise the President as to the selection.
+As soon as the appointment is approved by the President, the Department of Justice will announce the appointment and issue necessary notification in the Gazette of India.}\n\n
+
+{APPOINTMENT OF ACTING CHIEF JUSTICE
+Appointment of Acting Chief Justices is to be made by the President under Article 223 of the Constitution. Intimation from the Chief Justice about his proceeding on leave or being unable to perform the duties of the Office of Chief Justice must be sent to all concerned well in advance to make arrangement for appointment of Acting Chief Justice.
+When it is proposed to appoint the seniormost puisne Judge on duty, as Acting Chief Justice, as soon as above intimation is received, the Union Minister of Law, Justice and Company Affairs in the Central Government would appoint the seniormost puisne Judge and the Secretary to the Government of India in the Department of Justice will, inform the Chief Minister and announce the appointment and issue the necessary notification in the Gazette of India.
+10. Where, however, it is proposed to appoint an Acting Chief Justice, other than the seniormost puisne Judge the procedure for appointment of a regular Chief Justice as prescribed above will have to be followed.}\n\n
+
+{APPOINTMENT OF PERMANENT JUDGES
+The Chief Justice and Judges of the High Courts are to be appointed by the President under clause (1) of Article 217 of the Constitution. The Judges of the Jammu & Kashmir High Court are to be appointed by the President under section 95 of the Constitution of Jammu & Kashmir. Appointments to the High Court should be made on a time bound schedule so that the appointments are made well in advance preferably a month before the occurrence of the anticipated vacancy.
+When a permanent vacancy is expected to arise in any year in the office of a Judge, the Chief Justice will as early as possible but at least 6 months before the date of occurrence of the vacancy, communicate to the Chief Minister of the State his views as to the persons to be selected for appointment. Full details of the persons recommended, in the format given in Annexure-I should invariably be sent. Before forwarding his recommendation, the Chief Justice must consult two of his seniormost colleagues on the Bench regarding the suitability of the names proposed. All consultation must be in writing and these opinions must be sent to the Chief Minister along with the recommendations.
+The Chief Justice while sending his recommendation for appointing an additional Judge as a permanent Judge, must along with his recommendation furnish statistics of monthwise disposal of cases and judgments rendered by the Judge concerned as well as the number of cases reported in the Law Journal duly certified by him. The information would also be furnished regarding the total number of working days, the number of days he actually attended the court and the days of his absence from the Court during the period for which the disposal statistics are sent.
+The proposal for appointment of a Judge of a High Court shall be initiated by the Chief Justice of the High Court. However, if the Chief Minister desires to recommend the name of any person he should forward the same to the Chief Justice for his consideration. Since the Governor is bound by the advice of the Chief Minister heading the Council of Ministers, a copy of the Chief Justice’s proposal, with full set of papers, should simultaneously be sent to the Governor to avoid delay. Similarly, a copy thereof may also be endorsed to the Chief Justice of India and the Union Minister of Law, Justice and Company Affairs to expedite consideration. The Governor as advised by the Chief Minister should forward his recommendation along with the entire set of papers to the Union Minister of Law, Justice and Company Affairs as early as possible but not later than six weeks from the date of receipt of the proposal from the Chief Justice of the High Court. If the comments are not received within the said time frame, it should be presumed by the Union Minister of Law, Justice and Company Affairs that the Governor (i.e. Chief Minister) has nothing to add to the proposal and proceed accordingly.
+The Union Minister of Law, Justice and Company Affairs would consider the recommendations in the light of such other reports as may be available to the Government in respect of the names under consideration. The complete material would then be forwarded to the Chief Justice of India for his advice. The Chief Justice of India would, in consultation with the two seniormost Judges of the Supreme Court, form his opinion in regard to a person to be recommended for appointment to the High Court. The Chief Justice of India and the collegium of two Judges of the Supreme Court would take into account the views of the Chief Justice of the High Court and of those Judges of the High Court who have been consulted by the Chief Justice as well as views of those Judges in the Supreme Court who are conversant with the affairs of that High Court. It is of no consequence whether that High Court is their parent High Court or they have functioned in that High Court on transfer.
+After their consultations, the Chief Justice of India will in course of 4 weeks send his recommendation to the Union Minister of Law, Justice and Company Affairs. Consultation by the Chief Justice of India with his colleagues should be in writing and all such exchange of correspondence with his colleagues would be sent by the Chief Justice of India to the Union Minister of Law, Justice and Company Affairs. Once the names have been considered and recommended by the Chief Justice of India, they should not be referred back to the State Constitutional authorities even if a change takes place in the incumbency of any post. However, where it is considered expedient to refer back the names, the opinion or Chief Justice of India should be obtained. The Union Minister of Law, Justice and Company Affairs would then put up as early as possible, preferably, within 3 weeks, the recommendation or the Chief Justice of India to the Prime Minister who will advise the President in the matter of appointment.
+The correspondence between the Chief Justice and the Chief Minister and the correspondence between the Chief Minister and the Governor, if any, should be in writing and copies of the correspondence should invariably be forwarded along with the Chief Minister’s recommendations.
+As soon as the appointment is approved by the President, the Secretary to the Government of India in the Department of Justice will inform the Chief Justice of the High Court, who will obtain from the person selected (i)a certificate of physical fitness as in Annexure II signed by a Civil Surgeon or District medical officer, and (ii)a certificate of date of birth as in Annexure III. A copy of the communication will also be sent simultaneously to the Chief Minister of the State. The medical certificates should be obtained from all persons selected for appointment whether they are at the time of appointment in the service of the State or not. When these documents are obtained, the Chief Justice will intimate the fact to the Secretary to the Government of India in the Department of Justice and also forward these documents to him.
+As soon as the warrant of appointment is signed by the President, the Secretary to the Government of India in the Department of Justice will inform the Chief Justice and a copy of such communication will be sent to the Chief Minister. He will also announce the appointment and issue necessary notification in the Gazette of India.}\n\n
+
+{APPOINTMENT OF PERMANENT JUDGES IN A HIGH COURT HAVING JURISDICTION OVER MORE THAN ONE STATE:
+19. For appointments in these High Courts, the Chief Justice would initiate proposal in a manner prescribed in para 12 above and forward his recommendations to the Governor of the State where the seat of High Court is situated, and in the case of High Court of Punjab & Haryana, to the senior of the two Governors of these States, who would do the coordination and obtain the views of other Governor and Chief Ministers concerned in writing and forward the same along with the recommendations of the Chief Justice of the High Court to the Union Minister of Law, Justice and Company Affairs for further appropriate action as prescribed in para 15 above. In case, any of the State authorities wishes to recommend a name different from the one recommended by the Chief Justice of the High Court, he should send the same to the Chief Justice of the High Court concerned for his consideration. The initiation of a recommendation for filling up of a vacancy would be made only by the Chief Justice of the High Court concerned.}\n\n
+
+{APPOINTMENT OF ADDITIONAL JUDGES
+Additional Judges can be appointed by the President under clause (1) of Article 224 of the Constitution. When the need for this arises, the State Government should first obtain the sanction of the Central Government for the creation of such additional posts. The correspondence relating to this should be in the normal official form. After the post is sanctioned the procedure to be followed for making the appointment will be same as given in paragraphs 12 to 18 for the appointment of a permanent Judge, except that a medical certificate will not be necessary from the person being appointed as an Additional Judge.
+When an Additional Judge is being considered for confirmation as an Additional Judge for a fresh term, the relevant documents as mentioned in para 13 above also must be sent by the Chief Justice of the High Court concerned along with such recommendation.
+The Chief Justice of the High Court, however, should not make a recommendation for appointment of an Additional Judge when a vacancy of a permanent Judge is available in that High Court.}\n\n
+
+{APPOINTMENT OF ACTING JUDGES
+Acting Judges can be appointed by the President under clause (2) of Article 224 of the Constitution. Such appointments will not, however, be made for periods of less than three months unless there are special reasons for doing so. When occasion arises for making such an appointment, the same procedure will be followed, as given in paragraphs 12 to 18 for the appointment of a permanent Judge, except that a medical certificate will not be necessary from the person appointed as Acting Judge.
+Ordinarily, members of the Bar should for obvious reasons not be suggested for appointment as Acting Judges.}\n\n
+
+{ATTENDANCE OF RETIRED JUDGES AT SITTINGS OF HIGH COURTS
+Under Article 224A of the Constitution, the Chief Justice of a High Court may at any time, with the previous consent of the President, request any person who has held the office of a Judge of that court or of any other High Court to sit and act as a Judge of the High Court of that State. Whenever the necessity for such an appointment arises, the Chief Justice will after obtaining the consent of the person concerned, communicate to the Chief Minister of the State the name of the retired Judge and the period for which he will be required to sit and act as Judge of the High Court. The Chief Minister will, after consultation with the Governor, forward his recommendation to the Union Minister of Law, Justice and Company Affairs. The Union Minister of Law, Justice and Company Affairs would then consult the Chief Justice of India in accordance with the prescribed procedure. On receipt of CJI’s advice, the same would be put up to the Prime Minister, who will then advise the President as to the person to be appointed to it and act as a Judge of the High Court. As soon as the President gives his consent to the appointment, the Secretary to the Government of India in the Department of Justice will inform the Chief Justice of the High Court and the Chief Minister(s) and will issue the necessary notification in the Gazette of India.}\n\n
+
+{TRANSFER OF A JUDGE (INCLUDING CHIEF JUSTICE) FROM ONE HIGH COURT TO ANOTHER HIGH COURT:
+Article 222 of the Constitution makes provision for the transfer of a Judge (including Chief Justice) from one High Court to any other High Court. The initiation of the proposal for the transfer of a Judge should be made by the Chief Justice of India whose opinion in this regard is determinative. Consent of a Judge for his first or subsequent transfer would not be required. All transfers are to be made in public interest i.e. for promoting better administration of justice throughout the country.
+In the formation of his opinion for the transfer of a Judge, other than the Chief Justice, the Chief Justice of India is expected to take into account the views of the Chief Justice of the High Court from which the Judge is to be transferred, as also the Chief Justice of the High Court to which the transfer is to be effected. The Chief Justice of India should also take into account the views of one or more Supreme Court Judges who are in a position to offer his/their views which would assist in the process of deciding whether or not a proposed transfer should take place.
+In the case of transfer of a Chief Justice, only the views of one or more knowledgeable Supreme Court Judges need to be taken into account.
+The views on the proposed transfer of a Judge or a Chief Justice of a High Court should be expressed in writing and should be considered by the Chief Justice of India and the four seniormost Judges of the Supreme Court. The personal factors relating to the concerned Judge, including the Chief Justice, and his response to the proposal, including his preference of places, should invariably be taken into account by the Chief Justice of India and the first four puisne Judges of the Supreme Court before arriving at conclusion on the proposal.
+The proposal for transfer of the Judge, including the Chief Justice should be referred to the Government of India alongwith the views of all those consulted in this regard.
+After the recommendation of a transfer is received from the Chief Justice of India, the Union Minister of Law, Justice and Company Affairs would submit the recommendation alongwith relevant papers to the Prime Minister who will then advise the President as to the transfer of the Judge concerned. After the President approves the transfer, the Secretary to the Government of India in the Department of Justice will inform the Chief Justice of the High Courts and the Chief Ministers of concerned States and will announce the transfer and issue the necessary notification in the Gazette of India.
+Transfer of Judge to or from Jammu & Kashmir High Court shall be made in accordance with clause (1) of Article 222 of the Constitution of India read with Article 222 (1A) of the Constitution (Application to Jammu & Kashmir) order, 1954. Therefore, when it is proposed to transfer a Judge from or to the Jammu & Kashmir High Court, the Minister of Law and Justice in the Central Government will consult the Governor (Chief Minister) of Jammu & Kashmir for his views before putting up the relevant papers to the Prime Minister for advising the President. In case there is a difference of opinion, the Union Minister of Law, Justice and Company Affairs will consult the Chief Justice of India again before putting up the papers to the Prime Minister for advising the President on the matter of Transfer. On approval of the President, the transfer will be announced in the usual manner.}
+}\n\n
+
+{First National Judicial Pay Commission
+{In pursuance of the directions of the Supreme Court, the First National Judicial Pay Commission (FNJPC) was set up in March, 1996 under the Chairmanship of Justice K. J. Shetty to examine the service conditions and salary structure of the Judicial Officers in the country.
+The necessary funds for the functioning of the Commission were arranged by Department of Justice.
+The Commission submitted its report to the Government and Supreme Court of India on 11.11.1999.
+The Supreme Court examined the report in full and accepted the recommendations of the FNJPC with various modifications and directed all State Governments to implement it vide Order dated 21.03.2002.
+The recommendations of the FNJPC were considered by the Central Government in so far as they related to the Judicial Officers of the Union Territories for which the Central Government is administratively responsible. Therefore, the recommendations of the FNJPC were accepted and implemented by Department of Justice in respect of Judicial Officers of UTs.
+All the State Governments also implemented the recommendations of the FNJPC.}
+}\n\n
+
+{Second National Judicial Pay Commission
+{The Supreme Court of India on 09.05.2017 in Writ Petition No.643/2015 directed to appoint a Judicial Pay Commission to review the pay scales, emoluments and service conditions of the Judicial Officers of Subordinate Judiciary in India. Accordingly, with the approval of the Cabinet, the Government notified setting up of the SNJPC on 16.11.2017 under the Chairmanship of Mr. Justice (Retd.) P. Venkatarama Reddi, former Judge of Supreme Court of India.
+
+Member- Mr. Justice (Retd.) R. Basant, former Judge of Kerala High Court.
+
+Member Secretary (to be chosen by the Commission, preferably a Judicial Officer).
+
+SNJPC has submitted their report to this Department on dated 04.02.2020. A copy of report has been submitted to Supreme Court of India and to State Governments.  The recommendations of SNJPC are under consideration of Supreme Court of India.  This Department has filed its views/comments on the recommendations of SNJPC in the Supreme Court of India on 22.06.2020.
+
+The recommendations of SNJPC shall be considered by this Department in respect of judicial officers of the Union Territories in consultation with Department of Expenditure, Ministry of Finance and necessary orders will be issued to Union Territories to revise the pay and allowance of Judicial Officers under their administrative control.}
+}\n\n
+
+
+
+  
+
+
+
